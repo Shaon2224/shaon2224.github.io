@@ -1,0 +1,39 @@
+html,body { 
+    height: 100%;
+    width: 100%;
+    background: url(image/laurenz-heymann-oeUioo29Q14-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+      font-size: 3rem;
+      color: green;
+      font-weight: 700;
+  }
+
+  .btn-primary{
+      border-radius: 300px;
+      padding: 1rem 1rem;
+      text-transform: uppercase;
+      background-color: green;
+      border-color: green;
+  }
+
+  .btn-primary:hover{
+      background-color: green;
+      border-color: green;
+      border-width: 4px;
+  }
+
+  hr{
+      border-color: green;
+      border-width: 3px;
+      max-width: 65px;
+  }
+
+  .buffer{
+      height: 100px;
+  }
